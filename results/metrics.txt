@@ -1,0 +1,8 @@
+Evaluation Summary
+
+Metric: IoU-based Detection Evaluation
+IoU Threshold: 0.5
+
+Total test images:     51
+Detection accuracy:    96.08 %
+Mean IoU:              79.17 %
